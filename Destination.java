@@ -6,6 +6,10 @@ public class Destination
 	private String location, country, time;
 	private int terminals;
 	private String gate;
+	
+	// constructor
+	public Destination(){
+	}
 
 	// parameterized constructor
 	public Destination(String lo, String co, int te, String ga, String ti)
