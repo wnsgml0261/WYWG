@@ -1,4 +1,4 @@
-package WYWGt;
+package WYWG;
 
 public class AirPlane extends AirLine
 {
