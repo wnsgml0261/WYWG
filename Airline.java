@@ -5,6 +5,9 @@ public class AirLine {
 	private String name;
 	private int number;
 	
+	// constructor
+	public AirLine(){
+	}
 	// parameterized constructor
 	public AirLine(String n, int num)
 	{
