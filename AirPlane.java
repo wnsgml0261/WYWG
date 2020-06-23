@@ -6,6 +6,10 @@ public class AirPlane extends AirLine
 	private int mile;
 	private double cost;
 	
+	// constructor
+	public AirPlane(){
+	}
+	
 	/* parameterized constructor
 	 * @Override
 	 */
