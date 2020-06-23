@@ -2,6 +2,10 @@ package WYWG;
 
 public class Departs extends Destination{
 	
+	//constructor
+	public Departs(){
+	}
+	
 	/* parameterized constructor
 	 * @Override
 	 */
